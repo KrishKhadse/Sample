@@ -1,1 +1,8 @@
-hiii welcome to git
+hiii welcome to git - 1st commit
+
+
+this is my second commit 
+
+1
+2
+3
